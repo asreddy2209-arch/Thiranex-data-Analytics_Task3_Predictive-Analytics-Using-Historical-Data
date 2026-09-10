@@ -1,0 +1,9 @@
+Predictive Sales Analytics (synthetic)
+Training records: 871; test records: 218
+Model: RandomForestRegressor using time index, calendar, lag-7 and rolling-7 features.
+MAE: $786.70
+MSE: 1,011,707.64
+RMSE: $1,005.84
+R²: 0.310
+MAPE: 21.34%
+Next 30 days forecast total: $154,772.24

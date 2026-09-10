@@ -1,0 +1,1097 @@
+Date,Product,Category,Region,Quantity,Revenue,Profit
+2023-01-01,Air Fryer,Electronics,North,42,4930.38,1581.86
+2023-01-02,Headphones,Electronics,West,34,3926.36,1282.98
+2023-01-03,Desk,Electronics,West,37,4399.99,1127.26
+2023-01-04,Headphones,Home,West,42,5063.62,1769.3
+2023-01-05,Air Fryer,Electronics,West,27,2826.46,700.93
+2023-01-06,Desk,Home,South,45,5231.43,1501.08
+2023-01-07,Headphones,Furniture,South,38,4355.26,1249.24
+2023-01-08,Laptop,Home,North,44,4715.56,1461.65
+2023-01-09,Desk,Electronics,East,36,4130.63,1354.46
+2023-01-10,Headphones,Home,East,44,5082.45,1677.87
+2023-01-11,Desk,Furniture,East,54,5541.63,1609.01
+2023-01-12,Air Fryer,Furniture,South,59,7144.79,1626.89
+2023-01-13,Headphones,Furniture,East,48,5447.51,1776.56
+2023-01-14,Air Fryer,Furniture,East,55,6027.71,1826.03
+2023-01-15,Laptop,Furniture,West,45,4747.61,1192.33
+2023-01-16,Laptop,Electronics,South,53,5533.82,1700.71
+2023-01-17,Air Fryer,Home,South,28,3116.25,738.89
+2023-01-18,Air Fryer,Furniture,North,42,4706.16,1124.35
+2023-01-19,Headphones,Home,West,41,4615.39,1123.72
+2023-01-20,Desk,Electronics,North,36,4136.68,1131.07
+2023-01-21,Air Fryer,Furniture,South,50,5740.34,1611.92
+2023-01-22,Headphones,Home,North,45,5385.02,1445.25
+2023-01-23,Desk,Furniture,North,32,3158.96,965.09
+2023-01-24,Desk,Electronics,East,63,6825.81,2025.48
+2023-01-25,Air Fryer,Home,West,49,5565.85,1778.19
+2023-01-26,Laptop,Home,West,37,4231.56,1345.16
+2023-01-27,Air Fryer,Electronics,West,48,5190.54,1692.03
+2023-01-28,Desk,Electronics,North,41,4676.1,1469.98
+2023-01-29,Headphones,Furniture,South,49,4800.6,1168.1
+2023-01-30,Air Fryer,Electronics,West,39,4728.05,1207.06
+2023-01-31,Air Fryer,Furniture,West,56,7085.88,2033.77
+2023-02-01,Air Fryer,Home,West,39,4827.76,1329.88
+2023-02-02,Laptop,Furniture,North,40,4399.66,1007.23
+2023-02-03,Desk,Home,East,54,6215.76,2018.79
+2023-02-04,Desk,Furniture,East,42,4832.67,1272.19
+2023-02-05,Laptop,Home,West,40,5129.3,1738.89
+2023-02-06,Headphones,Furniture,South,50,6312.91,1876.89
+2023-02-07,Headphones,Furniture,East,33,3989.02,1203.3
+2023-02-08,Laptop,Home,East,41,4864.17,1330.34
+2023-02-09,Air Fryer,Home,West,38,4776.0,1617.8
+2023-02-10,Headphones,Electronics,North,47,5239.13,1776.24
+2023-02-11,Laptop,Home,North,46,5298.18,1336.81
+2023-02-12,Laptop,Electronics,North,51,5635.06,1672.21
+2023-02-13,Desk,Home,East,47,5608.75,1918.1
+2023-02-14,Laptop,Electronics,West,55,6124.53,1833.67
+2023-02-15,Desk,Home,West,52,6343.43,2187.27
+2023-02-16,Laptop,Electronics,South,39,3958.13,1034.42
+2023-02-17,Desk,Furniture,West,55,5601.73,1860.7
+2023-02-18,Headphones,Electronics,East,49,5538.65,1854.01
+2023-02-19,Desk,Furniture,East,47,5039.64,1171.78
+2023-02-20,Headphones,Electronics,North,48,5676.11,1841.65
+2023-02-21,Desk,Furniture,North,42,4895.66,1179.84
+2023-02-22,Desk,Home,West,52,6822.47,2000.91
+2023-02-23,Headphones,Furniture,North,49,5066.65,1547.57
+2023-02-24,Desk,Home,East,48,5551.12,1699.3
+2023-02-25,Headphones,Home,North,31,3393.37,841.41
+2023-02-26,Headphones,Home,West,44,4873.4,1123.8
+2023-02-27,Desk,Home,North,42,5209.89,1663.07
+2023-02-28,Desk,Home,East,49,5650.05,1302.7
+2023-03-01,Headphones,Home,North,41,4882.64,1467.67
+2023-03-02,Headphones,Home,South,39,4442.06,1194.02
+2023-03-03,Laptop,Home,East,61,6788.77,2222.3
+2023-03-04,Air Fryer,Home,West,29,3393.09,975.31
+2023-03-05,Laptop,Furniture,West,48,5451.55,1729.68
+2023-03-06,Headphones,Furniture,North,50,6361.59,2060.77
+2023-03-07,Desk,Electronics,West,62,7608.31,2507.65
+2023-03-08,Air Fryer,Home,East,51,5952.92,1452.38
+2023-03-09,Air Fryer,Furniture,South,62,7405.62,1993.32
+2023-03-10,Laptop,Furniture,West,45,5751.97,1670.99
+2023-03-11,Desk,Electronics,West,41,4693.07,1539.25
+2023-03-12,Air Fryer,Home,North,48,5435.12,1732.98
+2023-03-13,Laptop,Electronics,North,43,5249.3,1783.05
+2023-03-14,Laptop,Electronics,East,39,4960.62,1166.63
+2023-03-15,Desk,Furniture,West,52,5979.16,1463.53
+2023-03-16,Headphones,Furniture,North,67,7566.65,1731.16
+2023-03-17,Laptop,Electronics,South,40,4245.78,1331.34
+2023-03-18,Headphones,Home,East,59,7504.5,2517.99
+2023-03-19,Laptop,Furniture,North,49,5402.54,1276.28
+2023-03-20,Desk,Home,East,51,6468.49,1571.32
+2023-03-21,Headphones,Electronics,East,47,5514.89,1403.88
+2023-03-22,Headphones,Furniture,West,53,5968.32,1800.7
+2023-03-23,Headphones,Electronics,North,55,7148.19,1739.29
+2023-03-24,Laptop,Electronics,East,37,4369.84,1496.26
+2023-03-25,Air Fryer,Furniture,West,56,6372.83,1814.09
+2023-03-26,Air Fryer,Electronics,East,45,5404.26,1610.45
+2023-03-27,Laptop,Home,West,41,4696.6,1497.86
+2023-03-28,Desk,Home,West,52,5501.22,1817.93
+2023-03-29,Desk,Home,North,47,5598.46,1782.26
+2023-03-30,Air Fryer,Home,East,48,5020.91,1319.63
+2023-03-31,Laptop,Furniture,East,52,6396.71,2210.1
+2023-04-01,Headphones,Home,West,52,6143.11,1991.8
+2023-04-02,Desk,Electronics,East,41,4409.71,1208.09
+2023-04-03,Headphones,Electronics,North,36,4528.14,1390.39
+2023-04-04,Desk,Home,North,48,5087.44,1600.61
+2023-04-05,Laptop,Home,East,63,6918.76,1890.06
+2023-04-06,Desk,Furniture,East,59,6194.18,1815.9
+2023-04-07,Laptop,Furniture,North,42,4661.46,1299.93
+2023-04-08,Desk,Electronics,North,44,4952.79,1232.68
+2023-04-09,Air Fryer,Home,West,50,6103.15,1703.13
+2023-04-10,Desk,Home,East,43,5238.58,1469.72
+2023-04-11,Headphones,Furniture,North,44,5196.05,1576.68
+2023-04-12,Desk,Furniture,South,49,5871.46,1582.1
+2023-04-13,Laptop,Home,West,50,5770.78,1523.16
+2023-04-14,Headphones,Home,East,37,4447.84,1237.16
+2023-04-15,Headphones,Furniture,West,50,6192.27,1828.83
+2023-04-16,Desk,Electronics,North,41,4839.45,1329.31
+2023-04-17,Desk,Home,East,55,5992.57,1653.93
+2023-04-18,Headphones,Home,West,41,4112.97,1215.73
+2023-04-19,Headphones,Home,South,52,5967.08,1519.8
+2023-04-20,Headphones,Electronics,South,42,4306.69,1432.63
+2023-04-21,Headphones,Home,South,42,4381.54,1203.31
+2023-04-22,Air Fryer,Home,South,39,4374.3,1222.83
+2023-04-23,Desk,Home,West,54,5745.27,1500.39
+2023-04-24,Air Fryer,Furniture,South,38,4072.91,1328.85
+2023-04-25,Headphones,Furniture,South,47,5077.82,1279.62
+2023-04-26,Headphones,Electronics,East,49,5598.23,1578.42
+2023-04-27,Headphones,Electronics,West,50,6266.22,2162.26
+2023-04-28,Headphones,Home,West,49,5396.81,1484.01
+2023-04-29,Laptop,Electronics,West,41,4913.8,1168.51
+2023-04-30,Air Fryer,Furniture,East,44,4726.32,1443.09
+2023-05-01,Laptop,Electronics,West,51,5863.19,1551.98
+2023-05-02,Headphones,Electronics,East,45,5069.03,1406.01
+2023-05-03,Air Fryer,Electronics,West,51,5800.53,1407.11
+2023-05-04,Air Fryer,Home,South,47,5197.22,1254.9
+2023-05-05,Air Fryer,Home,East,51,5923.43,1510.79
+2023-05-06,Laptop,Furniture,West,36,4272.61,1171.92
+2023-05-07,Desk,Home,South,52,5708.08,1918.79
+2023-05-08,Laptop,Home,North,51,5247.16,1681.12
+2023-05-09,Headphones,Electronics,South,57,6661.65,1564.6
+2023-05-10,Laptop,Furniture,East,28,3304.49,1152.19
+2023-05-11,Laptop,Home,West,44,5507.95,1619.99
+2023-05-12,Desk,Furniture,East,61,6964.56,1549.1
+2023-05-13,Air Fryer,Home,North,43,5091.32,1683.66
+2023-05-14,Headphones,Electronics,South,42,4811.16,1173.71
+2023-05-15,Headphones,Home,East,57,6736.04,1725.74
+2023-05-16,Desk,Electronics,West,35,4187.59,923.05
+2023-05-17,Laptop,Home,West,34,3810.69,1234.41
+2023-05-18,Laptop,Home,East,45,5498.03,1401.5
+2023-05-19,Air Fryer,Furniture,South,48,5810.61,1367.16
+2023-05-20,Laptop,Electronics,South,53,6816.11,1574.33
+2023-05-21,Desk,Furniture,South,50,6064.78,1580.87
+2023-05-22,Headphones,Home,East,63,7164.73,2282.0
+2023-05-23,Laptop,Home,North,58,6655.93,2091.56
+2023-05-24,Headphones,Electronics,North,46,5579.43,1745.07
+2023-05-25,Laptop,Home,South,40,4707.79,1322.92
+2023-05-26,Headphones,Home,North,51,6066.22,1395.3
+2023-05-27,Air Fryer,Furniture,South,45,5569.72,1271.0
+2023-05-28,Laptop,Electronics,East,41,4936.55,1261.23
+2023-05-29,Air Fryer,Home,West,47,5272.92,1245.64
+2023-05-30,Headphones,Furniture,West,41,4570.95,1359.06
+2023-05-31,Laptop,Furniture,East,62,7161.36,2061.21
+2023-06-01,Air Fryer,Furniture,South,38,4405.53,1434.63
+2023-06-02,Headphones,Electronics,East,33,3415.7,893.5
+2023-06-03,Headphones,Electronics,West,48,5757.75,1691.75
+2023-06-04,Desk,Furniture,East,39,4372.15,1145.82
+2023-06-05,Air Fryer,Furniture,North,40,4487.24,1308.31
+2023-06-06,Desk,Furniture,West,33,3521.18,850.62
+2023-06-07,Air Fryer,Electronics,South,44,5310.62,1674.86
+2023-06-08,Headphones,Home,North,42,5237.21,1520.99
+2023-06-09,Desk,Furniture,North,60,7720.6,2625.79
+2023-06-10,Desk,Electronics,East,29,3482.95,1178.41
+2023-06-11,Headphones,Home,North,42,4262.0,1448.26
+2023-06-12,Desk,Home,South,42,4626.88,1333.12
+2023-06-13,Headphones,Home,West,46,5698.99,1981.38
+2023-06-14,Air Fryer,Home,South,30,3235.47,842.58
+2023-06-15,Laptop,Furniture,East,28,3296.71,920.6
+2023-06-16,Laptop,Electronics,West,43,4837.11,1151.65
+2023-06-17,Laptop,Electronics,South,30,3442.89,965.47
+2023-06-18,Headphones,Electronics,West,54,6514.91,1462.0
+2023-06-19,Air Fryer,Home,South,43,4844.82,1541.36
+2023-06-20,Laptop,Home,South,43,4571.9,1190.38
+2023-06-21,Headphones,Home,West,41,4889.62,1458.68
+2023-06-22,Air Fryer,Electronics,South,41,5016.19,1413.61
+2023-06-23,Air Fryer,Home,North,37,4279.49,1445.39
+2023-06-24,Air Fryer,Electronics,South,27,2960.25,1012.21
+2023-06-25,Air Fryer,Home,South,54,5530.02,1625.37
+2023-06-26,Desk,Home,East,37,4414.71,1360.7
+2023-06-27,Laptop,Home,West,30,3294.26,1060.19
+2023-06-28,Headphones,Home,South,55,6237.15,1739.43
+2023-06-29,Air Fryer,Home,South,32,3791.45,1034.18
+2023-06-30,Laptop,Furniture,North,41,4066.42,1131.55
+2023-07-01,Headphones,Electronics,East,42,5042.24,1603.53
+2023-07-02,Desk,Electronics,East,45,5316.14,1328.58
+2023-07-03,Headphones,Furniture,South,39,4549.75,1222.26
+2023-07-04,Air Fryer,Home,North,42,4423.0,1034.25
+2023-07-05,Air Fryer,Home,South,35,4050.79,909.12
+2023-07-06,Air Fryer,Furniture,West,35,4014.22,1064.84
+2023-07-07,Desk,Furniture,West,37,4006.41,923.09
+2023-07-08,Laptop,Home,East,37,4246.24,1044.74
+2023-07-09,Headphones,Home,North,24,2482.47,852.75
+2023-07-10,Headphones,Furniture,East,39,3931.52,1223.93
+2023-07-11,Headphones,Electronics,North,39,4208.14,1226.7
+2023-07-12,Desk,Electronics,North,30,3257.48,746.49
+2023-07-13,Air Fryer,Home,North,36,4410.19,1376.41
+2023-07-14,Laptop,Furniture,West,59,7147.09,2406.42
+2023-07-15,Laptop,Home,North,49,5443.26,1352.62
+2023-07-16,Headphones,Electronics,East,39,4519.18,1053.23
+2023-07-17,Air Fryer,Furniture,West,30,3658.3,845.98
+2023-07-18,Laptop,Electronics,West,41,4765.51,1431.22
+2023-07-19,Headphones,Home,East,42,5079.98,1657.23
+2023-07-20,Headphones,Electronics,North,36,4174.7,1401.84
+2023-07-21,Laptop,Electronics,South,45,4826.87,1555.47
+2023-07-22,Headphones,Home,West,30,3493.83,1155.34
+2023-07-23,Laptop,Furniture,East,54,6115.31,1592.88
+2023-07-24,Laptop,Home,East,39,4967.9,1221.82
+2023-07-25,Desk,Home,South,49,5708.4,1490.91
+2023-07-26,Laptop,Electronics,South,44,5072.59,1179.62
+2023-07-27,Air Fryer,Electronics,East,45,5426.7,1554.55
+2023-07-28,Laptop,Electronics,East,46,5121.78,1758.51
+2023-07-29,Laptop,Home,East,36,4482.46,1349.61
+2023-07-30,Headphones,Electronics,South,32,3398.21,1108.87
+2023-07-31,Desk,Furniture,East,34,4163.25,1443.68
+2023-08-01,Headphones,Electronics,East,40,4828.51,1476.73
+2023-08-02,Headphones,Home,East,32,3554.01,958.13
+2023-08-03,Desk,Home,North,32,3570.96,865.96
+2023-08-04,Air Fryer,Home,South,46,5506.69,1826.85
+2023-08-05,Desk,Furniture,East,43,4835.56,1516.41
+2023-08-06,Desk,Home,East,28,3368.81,1094.67
+2023-08-07,Desk,Electronics,South,36,4271.07,978.18
+2023-08-08,Desk,Furniture,West,18,2161.27,745.84
+2023-08-09,Laptop,Home,South,34,3668.25,891.88
+2023-08-10,Laptop,Furniture,East,23,2640.09,794.27
+2023-08-11,Desk,Electronics,South,44,5010.11,1291.51
+2023-08-12,Laptop,Home,North,40,4938.69,1177.6
+2023-08-13,Air Fryer,Furniture,South,34,3932.51,961.58
+2023-08-14,Headphones,Furniture,South,39,4227.45,1295.28
+2023-08-15,Air Fryer,Electronics,South,32,4197.35,1416.92
+2023-08-16,Desk,Home,East,30,3358.28,910.87
+2023-08-17,Air Fryer,Electronics,North,35,3944.86,916.26
+2023-08-18,Air Fryer,Furniture,North,38,4149.28,1430.08
+2023-08-19,Desk,Furniture,East,37,3831.13,885.88
+2023-08-20,Desk,Furniture,West,27,3448.63,1122.27
+2023-08-21,Laptop,Furniture,South,23,2700.04,784.22
+2023-08-22,Headphones,Home,North,48,5594.77,1602.43
+2023-08-23,Air Fryer,Electronics,West,39,4408.23,1388.87
+2023-08-24,Air Fryer,Home,West,18,2027.29,555.35
+2023-08-25,Air Fryer,Furniture,South,28,3160.44,990.64
+2023-08-26,Air Fryer,Home,West,43,4563.5,1172.86
+2023-08-27,Desk,Home,West,42,4553.98,1244.22
+2023-08-28,Air Fryer,Furniture,North,31,3287.79,981.87
+2023-08-29,Air Fryer,Electronics,East,16,1935.98,564.06
+2023-08-30,Headphones,Furniture,West,43,4549.01,1487.1
+2023-08-31,Air Fryer,Furniture,North,28,3006.46,663.73
+2023-09-01,Air Fryer,Electronics,South,14,1486.04,452.98
+2023-09-02,Air Fryer,Electronics,South,35,4101.01,1379.28
+2023-09-03,Laptop,Home,East,33,3606.35,862.53
+2023-09-04,Laptop,Home,East,26,2856.68,904.66
+2023-09-05,Laptop,Electronics,West,49,6540.2,1829.78
+2023-09-06,Desk,Home,North,53,6427.37,2156.22
+2023-09-07,Air Fryer,Electronics,South,31,3428.42,842.05
+2023-09-08,Laptop,Home,West,29,3056.1,921.79
+2023-09-09,Laptop,Electronics,East,41,4835.02,1577.86
+2023-09-10,Air Fryer,Electronics,East,33,3761.39,1147.82
+2023-09-11,Laptop,Furniture,North,44,5072.0,1510.23
+2023-09-12,Headphones,Furniture,North,27,3139.6,928.43
+2023-09-13,Air Fryer,Home,West,15,1637.28,490.79
+2023-09-14,Laptop,Furniture,North,41,4927.47,1605.83
+2023-09-15,Air Fryer,Furniture,West,35,4026.15,1041.36
+2023-09-16,Headphones,Home,South,43,4992.96,1154.94
+2023-09-17,Laptop,Electronics,North,24,2770.07,718.52
+2023-09-18,Headphones,Furniture,West,33,4413.03,1042.51
+2023-09-19,Laptop,Furniture,West,31,3524.25,1194.71
+2023-09-20,Air Fryer,Home,West,28,3036.02,862.08
+2023-09-21,Laptop,Home,South,33,3526.93,958.8
+2023-09-22,Laptop,Electronics,North,36,3969.1,1351.56
+2023-09-23,Laptop,Home,West,45,4387.27,1132.39
+2023-09-24,Desk,Electronics,South,29,3147.51,797.25
+2023-09-25,Headphones,Furniture,East,17,1934.95,440.7
+2023-09-26,Desk,Home,West,34,4084.28,1278.7
+2023-09-27,Air Fryer,Furniture,North,42,5211.91,1639.51
+2023-09-28,Laptop,Furniture,West,31,3769.61,1103.64
+2023-09-29,Air Fryer,Home,North,29,2930.97,769.5
+2023-09-30,Air Fryer,Home,North,39,4793.89,1060.25
+2023-10-01,Desk,Furniture,South,35,3955.68,917.48
+2023-10-02,Air Fryer,Furniture,West,31,3556.97,1123.02
+2023-10-03,Desk,Home,North,23,2885.17,971.36
+2023-10-04,Air Fryer,Electronics,East,38,4753.15,1626.04
+2023-10-05,Headphones,Furniture,East,35,4204.19,1437.28
+2023-10-06,Air Fryer,Home,South,42,5287.61,1649.54
+2023-10-07,Laptop,Furniture,East,35,3917.72,1096.15
+2023-10-08,Desk,Furniture,East,25,3163.86,978.78
+2023-10-09,Desk,Electronics,South,41,4826.86,1291.35
+2023-10-10,Headphones,Furniture,East,29,3106.67,743.43
+2023-10-11,Headphones,Home,East,23,3018.16,798.92
+2023-10-12,Desk,Furniture,East,34,4025.79,1175.99
+2023-10-13,Desk,Home,East,25,2910.72,1005.65
+2023-10-14,Desk,Electronics,West,35,3998.82,1332.17
+2023-10-15,Desk,Furniture,North,32,3647.55,1125.61
+2023-10-16,Headphones,Furniture,North,43,5058.06,1644.69
+2023-10-17,Headphones,Home,East,37,4668.82,1429.25
+2023-10-18,Air Fryer,Home,North,45,5234.33,1304.76
+2023-10-19,Headphones,Electronics,East,45,4869.93,1126.96
+2023-10-20,Laptop,Electronics,North,46,5659.14,1898.12
+2023-10-21,Air Fryer,Furniture,South,34,3765.64,1014.21
+2023-10-22,Laptop,Furniture,South,19,2224.29,690.16
+2023-10-23,Desk,Furniture,East,32,3877.88,1027.25
+2023-10-24,Laptop,Furniture,West,28,3359.42,746.73
+2023-10-25,Laptop,Home,West,35,4460.11,1362.1
+2023-10-26,Desk,Electronics,South,22,2781.88,836.33
+2023-10-27,Air Fryer,Electronics,North,20,2441.33,694.08
+2023-10-28,Headphones,Home,South,43,5131.48,1604.76
+2023-10-29,Headphones,Furniture,South,32,3751.39,1108.12
+2023-10-30,Air Fryer,Electronics,West,37,4029.6,1277.52
+2023-10-31,Headphones,Electronics,West,23,2412.07,722.42
+2023-11-01,Laptop,Electronics,East,33,3363.32,1021.83
+2023-11-02,Headphones,Electronics,South,32,3506.02,908.9
+2023-11-03,Air Fryer,Home,North,42,5404.28,1500.57
+2023-11-04,Laptop,Furniture,North,47,5519.77,1547.53
+2023-11-05,Desk,Electronics,North,49,5861.29,1433.64
+2023-11-06,Headphones,Electronics,West,30,3375.1,1101.1
+2023-11-07,Air Fryer,Home,West,27,3043.87,743.67
+2023-11-08,Desk,Furniture,South,66,6994.87,2293.64
+2023-11-09,Laptop,Electronics,West,53,6158.44,1625.33
+2023-11-10,Laptop,Furniture,West,25,3440.78,945.52
+2023-11-11,Headphones,Electronics,North,38,4816.12,1675.65
+2023-11-12,Desk,Home,North,35,3975.35,1365.71
+2023-11-13,Desk,Home,East,46,4925.17,1409.4
+2023-11-14,Headphones,Furniture,South,56,6419.9,1574.91
+2023-11-15,Headphones,Electronics,West,43,5258.12,1385.89
+2023-11-16,Air Fryer,Furniture,East,46,5890.77,1949.44
+2023-11-17,Air Fryer,Electronics,East,38,4020.54,940.03
+2023-11-18,Headphones,Furniture,West,50,5463.48,1582.82
+2023-11-19,Air Fryer,Electronics,East,52,5840.92,1705.34
+2023-11-20,Laptop,Home,North,51,5628.57,1377.01
+2023-11-21,Laptop,Home,East,43,4455.72,987.02
+2023-11-22,Headphones,Electronics,South,50,5181.95,1500.83
+2023-11-23,Headphones,Electronics,South,52,6689.85,2165.66
+2023-11-24,Headphones,Furniture,North,34,4317.83,1059.48
+2023-11-25,Laptop,Home,North,68,8678.44,2871.57
+2023-11-26,Headphones,Electronics,South,48,4950.42,1277.92
+2023-11-27,Headphones,Furniture,East,49,6105.1,1562.63
+2023-11-28,Desk,Electronics,North,49,4883.8,1141.27
+2023-11-29,Air Fryer,Home,North,40,4769.82,1517.88
+2023-11-30,Desk,Electronics,West,43,4777.35,1549.74
+2023-12-01,Air Fryer,Furniture,South,43,4632.96,1233.13
+2023-12-02,Air Fryer,Electronics,North,69,8400.29,1851.11
+2023-12-03,Laptop,Home,East,41,4417.61,1182.07
+2023-12-04,Desk,Electronics,East,54,6037.63,1828.75
+2023-12-05,Desk,Furniture,North,61,7262.41,2509.67
+2023-12-06,Desk,Furniture,North,46,5553.92,1392.76
+2023-12-07,Desk,Electronics,South,58,7457.85,2042.94
+2023-12-08,Headphones,Furniture,West,43,5088.59,1187.89
+2023-12-09,Desk,Furniture,West,44,5008.51,1275.92
+2023-12-10,Laptop,Home,North,65,8090.44,2118.41
+2023-12-11,Laptop,Home,West,48,5735.49,1751.58
+2023-12-12,Air Fryer,Electronics,South,73,7289.32,2401.82
+2023-12-13,Desk,Home,East,48,6060.29,1597.5
+2023-12-14,Air Fryer,Home,South,48,5355.16,1445.23
+2023-12-15,Laptop,Home,North,62,6667.8,2305.16
+2023-12-16,Desk,Furniture,West,49,4594.18,1012.32
+2023-12-17,Headphones,Electronics,East,46,5872.01,1532.75
+2023-12-18,Desk,Electronics,West,51,6511.57,2191.41
+2023-12-19,Laptop,Home,East,50,6255.65,1557.28
+2023-12-20,Air Fryer,Furniture,South,49,5401.89,1339.99
+2023-12-21,Air Fryer,Furniture,North,65,6870.29,1874.41
+2023-12-22,Headphones,Electronics,East,49,5365.6,1443.29
+2023-12-23,Air Fryer,Furniture,South,40,4862.85,1572.57
+2023-12-24,Headphones,Home,West,56,6449.49,2130.77
+2023-12-25,Desk,Home,South,48,5809.04,1396.65
+2023-12-26,Headphones,Home,North,50,4941.38,1342.07
+2023-12-27,Headphones,Electronics,North,48,4870.62,1562.6
+2023-12-28,Desk,Home,South,42,5048.48,1237.57
+2023-12-29,Air Fryer,Furniture,South,62,6776.97,1965.68
+2023-12-30,Desk,Furniture,East,49,5724.12,1442.62
+2023-12-31,Laptop,Home,East,45,4802.43,1099.27
+2024-01-01,Desk,Electronics,East,44,4738.93,1361.44
+2024-01-02,Headphones,Home,East,36,4178.56,1116.79
+2024-01-03,Headphones,Home,West,41,4407.36,976.73
+2024-01-04,Headphones,Electronics,West,35,3965.1,1056.96
+2024-01-05,Air Fryer,Home,South,34,3682.39,1010.23
+2024-01-06,Headphones,Home,East,39,4319.65,1389.46
+2024-01-07,Desk,Home,East,44,5784.35,1659.52
+2024-01-08,Laptop,Electronics,West,45,5393.01,1775.88
+2024-01-09,Headphones,Furniture,North,41,4008.86,1000.53
+2024-01-10,Desk,Home,West,40,4518.35,1084.15
+2024-01-11,Laptop,Furniture,North,36,4223.7,1413.35
+2024-01-12,Laptop,Electronics,South,39,4224.66,1069.44
+2024-01-13,Desk,Home,South,56,6818.1,2192.52
+2024-01-14,Laptop,Furniture,East,32,3236.72,903.36
+2024-01-15,Laptop,Electronics,West,40,4631.82,1168.44
+2024-01-16,Desk,Electronics,South,33,3620.54,1044.29
+2024-01-17,Laptop,Home,West,36,4136.57,1272.67
+2024-01-18,Desk,Furniture,South,36,3912.03,1090.33
+2024-01-19,Laptop,Home,East,54,6000.56,1480.0
+2024-01-20,Air Fryer,Furniture,West,53,6240.26,2132.95
+2024-01-21,Desk,Furniture,South,55,6281.23,1465.98
+2024-01-22,Air Fryer,Home,West,46,4950.9,1671.01
+2024-01-23,Laptop,Electronics,West,50,5889.45,1344.05
+2024-01-24,Desk,Electronics,West,44,5288.19,1303.16
+2024-01-25,Headphones,Electronics,South,51,5594.73,1730.96
+2024-01-26,Laptop,Home,West,51,5768.33,1513.83
+2024-01-27,Air Fryer,Home,West,64,6935.06,2337.64
+2024-01-28,Laptop,Furniture,West,38,4731.9,1574.85
+2024-01-29,Laptop,Electronics,South,55,6812.69,2312.87
+2024-01-30,Headphones,Home,North,39,4432.43,1172.5
+2024-01-31,Laptop,Home,South,41,5462.7,1206.56
+2024-02-01,Laptop,Home,North,53,6858.74,2336.63
+2024-02-02,Laptop,Furniture,South,57,6330.08,1963.47
+2024-02-03,Headphones,Electronics,North,48,5096.62,1314.66
+2024-02-04,Air Fryer,Home,South,48,5961.77,1848.85
+2024-02-05,Laptop,Furniture,South,50,6108.77,2110.4
+2024-02-06,Desk,Electronics,North,39,4775.18,1552.71
+2024-02-07,Laptop,Home,East,55,6006.36,1975.3
+2024-02-08,Desk,Electronics,North,38,4260.36,1226.14
+2024-02-09,Laptop,Home,West,53,5593.83,1753.99
+2024-02-10,Laptop,Electronics,West,35,4541.49,1171.64
+2024-02-11,Laptop,Furniture,West,49,6188.24,1629.15
+2024-02-12,Air Fryer,Electronics,South,57,6207.08,1996.58
+2024-02-13,Air Fryer,Furniture,East,50,5793.9,1839.5
+2024-02-14,Headphones,Home,North,51,5532.02,1603.11
+2024-02-15,Laptop,Home,East,57,7104.93,1597.7
+2024-02-16,Desk,Furniture,East,48,5144.57,1421.37
+2024-02-17,Air Fryer,Home,West,45,5029.58,1138.98
+2024-02-18,Desk,Furniture,West,53,6018.61,1938.43
+2024-02-19,Headphones,Electronics,East,39,4597.42,1211.04
+2024-02-20,Laptop,Furniture,South,57,7266.54,2321.82
+2024-02-21,Laptop,Home,East,57,6696.18,1786.84
+2024-02-22,Headphones,Furniture,West,56,6760.96,1977.0
+2024-02-23,Desk,Electronics,South,51,5957.17,1842.79
+2024-02-24,Air Fryer,Furniture,West,48,5898.39,1781.2
+2024-02-25,Desk,Home,East,65,7314.14,2315.48
+2024-02-26,Desk,Electronics,East,66,7699.17,2265.94
+2024-02-27,Air Fryer,Home,West,52,6259.33,1976.92
+2024-02-28,Laptop,Home,South,52,5554.97,1765.01
+2024-02-29,Desk,Electronics,South,31,3713.47,833.95
+2024-03-01,Headphones,Electronics,North,61,7144.81,2336.35
+2024-03-02,Desk,Home,South,45,5467.38,1667.59
+2024-03-03,Air Fryer,Furniture,South,50,6195.58,1874.47
+2024-03-04,Headphones,Home,North,48,5651.06,1595.27
+2024-03-05,Laptop,Home,East,45,5132.35,1332.98
+2024-03-06,Headphones,Home,East,61,7234.58,2300.96
+2024-03-07,Laptop,Home,West,49,5753.83,1948.19
+2024-03-08,Air Fryer,Electronics,South,50,6589.73,1831.17
+2024-03-09,Headphones,Home,North,65,7303.11,1968.05
+2024-03-10,Laptop,Home,South,60,6366.3,1939.7
+2024-03-11,Air Fryer,Furniture,West,49,5498.22,1527.28
+2024-03-12,Air Fryer,Furniture,West,44,5246.19,1822.44
+2024-03-13,Desk,Home,North,47,5590.13,1833.76
+2024-03-14,Air Fryer,Home,East,42,5064.09,1283.52
+2024-03-15,Laptop,Electronics,West,48,4923.33,1533.13
+2024-03-16,Headphones,Electronics,West,49,6021.09,1991.81
+2024-03-17,Laptop,Furniture,East,63,7960.1,2726.18
+2024-03-18,Headphones,Furniture,East,45,4995.68,1549.38
+2024-03-19,Headphones,Furniture,East,41,5015.48,1613.74
+2024-03-20,Headphones,Furniture,North,56,6804.32,2293.78
+2024-03-21,Air Fryer,Electronics,East,65,7812.97,2549.76
+2024-03-22,Air Fryer,Furniture,West,56,6654.78,1986.98
+2024-03-23,Laptop,Electronics,West,50,5237.38,1330.95
+2024-03-24,Headphones,Electronics,East,72,8336.2,2914.4
+2024-03-25,Desk,Furniture,West,41,4430.56,1206.44
+2024-03-26,Air Fryer,Furniture,South,49,5286.42,1843.56
+2024-03-27,Headphones,Electronics,West,40,4348.47,1139.45
+2024-03-28,Desk,Electronics,North,50,6037.09,1851.97
+2024-03-29,Laptop,Home,West,61,7552.31,1969.3
+2024-03-30,Desk,Furniture,North,42,5158.17,1211.91
+2024-03-31,Laptop,Home,East,46,5220.31,1487.95
+2024-04-01,Laptop,Home,West,39,4778.49,1174.12
+2024-04-02,Laptop,Furniture,North,54,5927.34,1392.2
+2024-04-03,Air Fryer,Furniture,North,52,5781.71,1550.6
+2024-04-04,Laptop,Electronics,North,52,5547.33,1893.69
+2024-04-05,Laptop,Home,West,46,5124.04,1357.96
+2024-04-06,Air Fryer,Home,West,55,6538.05,1967.81
+2024-04-07,Laptop,Home,East,66,7087.66,1580.15
+2024-04-08,Air Fryer,Electronics,North,55,6963.55,2158.02
+2024-04-09,Laptop,Furniture,East,48,5236.38,1380.38
+2024-04-10,Air Fryer,Furniture,North,51,5873.55,1342.57
+2024-04-11,Laptop,Furniture,South,40,5198.83,1708.14
+2024-04-12,Desk,Electronics,South,48,5075.68,1334.54
+2024-04-13,Air Fryer,Electronics,North,43,4842.23,1201.39
+2024-04-14,Laptop,Furniture,East,46,5489.56,1719.27
+2024-04-15,Laptop,Home,East,57,7510.73,2106.65
+2024-04-16,Desk,Home,East,49,6385.9,1529.5
+2024-04-17,Air Fryer,Home,North,55,7022.96,1781.08
+2024-04-18,Headphones,Furniture,South,48,5549.78,1764.52
+2024-04-19,Desk,Home,South,42,4522.22,1417.22
+2024-04-20,Headphones,Home,West,58,6626.83,2309.32
+2024-04-21,Headphones,Home,East,54,6531.0,1898.73
+2024-04-22,Laptop,Electronics,North,44,4863.78,1160.1
+2024-04-23,Desk,Home,South,56,6508.62,1557.84
+2024-04-24,Headphones,Electronics,South,27,3113.61,881.52
+2024-04-25,Headphones,Home,East,70,7759.62,2342.08
+2024-04-26,Air Fryer,Electronics,West,55,6891.37,1782.07
+2024-04-27,Laptop,Home,North,42,4923.1,1633.99
+2024-04-28,Desk,Home,South,44,4897.26,1400.03
+2024-04-29,Desk,Home,West,39,4630.61,1115.38
+2024-04-30,Headphones,Home,South,62,7371.95,2171.26
+2024-05-01,Laptop,Home,South,64,6387.3,1674.83
+2024-05-02,Laptop,Furniture,South,42,4202.12,951.57
+2024-05-03,Air Fryer,Electronics,North,53,5470.76,1808.3
+2024-05-04,Air Fryer,Electronics,West,44,4782.9,1351.24
+2024-05-05,Headphones,Home,West,49,5565.47,1270.24
+2024-05-06,Air Fryer,Furniture,East,50,6495.86,1888.3
+2024-05-07,Headphones,Electronics,North,36,3732.56,941.4
+2024-05-08,Laptop,Home,East,49,5391.17,1191.73
+2024-05-09,Laptop,Electronics,North,43,4827.71,1435.67
+2024-05-10,Desk,Furniture,West,40,4155.95,1179.98
+2024-05-11,Headphones,Electronics,South,69,7385.55,2279.97
+2024-05-12,Air Fryer,Electronics,West,46,5204.29,1340.21
+2024-05-13,Air Fryer,Electronics,South,33,3895.59,912.98
+2024-05-14,Air Fryer,Furniture,West,55,6392.2,1565.55
+2024-05-15,Air Fryer,Home,West,32,4058.46,1344.62
+2024-05-16,Desk,Furniture,East,37,4219.95,1293.1
+2024-05-17,Laptop,Electronics,East,59,6507.84,1492.82
+2024-05-18,Air Fryer,Electronics,East,33,3753.17,830.23
+2024-05-19,Desk,Home,West,42,5463.84,1444.06
+2024-05-20,Laptop,Furniture,East,57,7513.3,2415.13
+2024-05-21,Headphones,Furniture,North,44,5434.81,1677.5
+2024-05-22,Air Fryer,Electronics,West,48,5768.11,1491.78
+2024-05-23,Laptop,Furniture,East,39,4853.54,1251.64
+2024-05-24,Desk,Home,East,45,4819.5,1125.46
+2024-05-25,Air Fryer,Electronics,South,59,7711.33,2025.82
+2024-05-26,Air Fryer,Electronics,West,46,5394.06,1680.63
+2024-05-27,Desk,Electronics,West,47,5284.57,1483.6
+2024-05-28,Laptop,Furniture,North,55,6322.72,1731.59
+2024-05-29,Desk,Home,West,45,4934.5,1197.4
+2024-05-30,Air Fryer,Furniture,South,57,5782.99,1671.9
+2024-05-31,Desk,Electronics,East,48,5346.37,1604.9
+2024-06-01,Laptop,Electronics,West,37,4650.01,1444.49
+2024-06-02,Air Fryer,Furniture,West,53,5783.29,1908.92
+2024-06-03,Air Fryer,Home,South,43,4681.55,1192.83
+2024-06-04,Desk,Electronics,South,46,5085.17,1696.17
+2024-06-05,Laptop,Furniture,West,46,4592.19,1164.51
+2024-06-06,Desk,Electronics,West,47,5258.57,1249.99
+2024-06-07,Air Fryer,Electronics,South,40,4304.35,1342.48
+2024-06-08,Air Fryer,Electronics,North,53,5988.98,1418.92
+2024-06-09,Headphones,Electronics,East,51,5962.8,1841.39
+2024-06-10,Air Fryer,Home,South,58,6540.06,2203.35
+2024-06-11,Headphones,Electronics,South,49,5478.44,1915.32
+2024-06-12,Laptop,Furniture,East,49,5567.93,1561.59
+2024-06-13,Headphones,Home,West,47,5314.76,1650.1
+2024-06-14,Air Fryer,Home,West,41,4237.39,1260.61
+2024-06-15,Headphones,Furniture,West,51,5623.12,1937.03
+2024-06-16,Headphones,Home,West,41,4519.88,1148.49
+2024-06-17,Air Fryer,Home,North,48,5602.03,1440.85
+2024-06-18,Desk,Home,South,35,3896.96,1043.34
+2024-06-19,Headphones,Furniture,South,54,6534.99,1625.7
+2024-06-20,Laptop,Electronics,North,41,4741.51,1360.9
+2024-06-21,Air Fryer,Home,North,50,5846.56,1774.06
+2024-06-22,Headphones,Home,West,39,4738.93,1381.59
+2024-06-23,Air Fryer,Furniture,East,31,3789.71,1104.6
+2024-06-24,Desk,Home,North,46,4680.58,1455.61
+2024-06-25,Air Fryer,Home,East,33,3990.39,1172.76
+2024-06-26,Air Fryer,Home,South,39,4580.26,1555.24
+2024-06-27,Air Fryer,Furniture,West,42,4676.41,1134.05
+2024-06-28,Headphones,Home,West,45,5081.99,1610.06
+2024-06-29,Laptop,Furniture,North,46,6203.28,1581.79
+2024-06-30,Headphones,Electronics,South,45,4251.07,1219.01
+2024-07-01,Desk,Home,East,39,4242.41,1300.82
+2024-07-02,Air Fryer,Home,North,41,4531.35,1515.26
+2024-07-03,Desk,Home,South,47,6145.41,1835.98
+2024-07-04,Desk,Furniture,West,50,6157.64,1532.74
+2024-07-05,Desk,Furniture,East,43,5006.63,1286.6
+2024-07-06,Laptop,Furniture,North,34,3337.81,1022.41
+2024-07-07,Headphones,Furniture,North,41,4165.41,1428.67
+2024-07-08,Desk,Furniture,West,41,5261.99,1745.66
+2024-07-09,Air Fryer,Electronics,South,44,5207.25,1310.33
+2024-07-10,Laptop,Electronics,East,35,3793.53,1187.1
+2024-07-11,Desk,Electronics,East,31,3708.23,1293.11
+2024-07-12,Air Fryer,Home,South,39,4604.48,1080.51
+2024-07-13,Air Fryer,Furniture,West,40,4412.39,1004.67
+2024-07-14,Desk,Home,East,40,4604.33,1270.02
+2024-07-15,Laptop,Electronics,South,43,5331.1,1547.02
+2024-07-16,Laptop,Electronics,West,39,4647.33,1526.14
+2024-07-17,Laptop,Home,West,46,5333.56,1579.88
+2024-07-18,Headphones,Furniture,South,22,2765.47,926.31
+2024-07-19,Laptop,Electronics,South,32,4217.65,1268.99
+2024-07-20,Desk,Electronics,North,26,3103.6,852.57
+2024-07-21,Air Fryer,Furniture,North,20,2310.54,602.78
+2024-07-22,Air Fryer,Home,North,21,2486.7,784.5
+2024-07-23,Desk,Electronics,East,33,4415.14,1136.23
+2024-07-24,Desk,Home,South,47,5602.79,1903.71
+2024-07-25,Headphones,Home,East,23,3018.81,967.88
+2024-07-26,Laptop,Electronics,West,40,4100.92,958.69
+2024-07-27,Desk,Furniture,North,38,4711.26,1282.82
+2024-07-28,Air Fryer,Electronics,South,42,4465.75,1372.89
+2024-07-29,Headphones,Home,West,41,4720.41,1535.95
+2024-07-30,Laptop,Home,West,31,3740.08,1009.59
+2024-07-31,Headphones,Electronics,West,43,4740.91,1080.13
+2024-08-01,Desk,Electronics,East,34,3943.67,1347.61
+2024-08-02,Air Fryer,Home,East,35,4453.48,1115.07
+2024-08-03,Desk,Electronics,East,49,5618.03,1273.07
+2024-08-04,Laptop,Electronics,East,56,6549.02,1849.31
+2024-08-05,Headphones,Home,South,33,3714.67,936.16
+2024-08-06,Headphones,Furniture,North,42,5158.74,1284.18
+2024-08-07,Desk,Furniture,East,43,4689.12,1299.4
+2024-08-08,Desk,Furniture,West,25,2947.27,750.69
+2024-08-09,Air Fryer,Home,North,39,4358.79,1228.87
+2024-08-10,Headphones,Home,South,23,2686.0,908.55
+2024-08-11,Air Fryer,Electronics,West,26,2923.12,978.09
+2024-08-12,Laptop,Home,North,26,3198.54,952.98
+2024-08-13,Desk,Home,South,30,3547.62,788.12
+2024-08-14,Headphones,Electronics,West,36,4094.19,1425.05
+2024-08-15,Desk,Furniture,North,35,3910.1,1127.14
+2024-08-16,Air Fryer,Home,East,38,4456.34,1178.57
+2024-08-17,Headphones,Electronics,West,23,2688.99,616.32
+2024-08-18,Laptop,Furniture,North,28,3400.55,1059.8
+2024-08-19,Desk,Home,West,55,6468.36,1988.78
+2024-08-20,Desk,Electronics,North,37,4615.44,1460.22
+2024-08-21,Headphones,Furniture,East,46,5832.75,1429.21
+2024-08-22,Headphones,Electronics,South,29,3691.96,1129.31
+2024-08-23,Desk,Furniture,North,37,4565.18,1394.26
+2024-08-24,Air Fryer,Home,West,38,5034.91,1542.55
+2024-08-25,Air Fryer,Electronics,West,41,5029.0,1657.14
+2024-08-26,Headphones,Electronics,East,24,2601.66,839.29
+2024-08-27,Air Fryer,Furniture,North,40,5607.4,1898.36
+2024-08-28,Air Fryer,Electronics,North,29,3088.23,790.72
+2024-08-29,Headphones,Home,East,28,3173.25,1039.68
+2024-08-30,Laptop,Home,North,37,4272.68,1457.7
+2024-08-31,Desk,Electronics,North,31,3731.17,917.0
+2024-09-01,Desk,Electronics,North,32,3382.22,993.74
+2024-09-02,Headphones,Electronics,North,27,3266.73,985.94
+2024-09-03,Headphones,Electronics,West,25,2931.94,850.2
+2024-09-04,Air Fryer,Home,East,37,3961.11,1123.59
+2024-09-05,Headphones,Electronics,West,24,2876.34,753.32
+2024-09-06,Laptop,Furniture,East,34,4094.3,1399.98
+2024-09-07,Laptop,Electronics,West,34,4013.3,1034.64
+2024-09-08,Laptop,Electronics,South,46,5496.74,1257.86
+2024-09-09,Desk,Electronics,East,22,2625.91,585.32
+2024-09-10,Laptop,Home,South,29,3697.87,1208.06
+2024-09-11,Air Fryer,Furniture,East,36,4152.75,994.86
+2024-09-12,Laptop,Furniture,East,23,2556.6,733.59
+2024-09-13,Headphones,Electronics,North,34,3969.95,996.41
+2024-09-14,Headphones,Furniture,East,28,3006.27,940.01
+2024-09-15,Air Fryer,Electronics,East,24,2740.74,740.05
+2024-09-16,Desk,Furniture,South,37,4190.04,1164.83
+2024-09-17,Laptop,Furniture,East,27,3356.89,836.65
+2024-09-18,Desk,Electronics,East,26,3409.2,865.56
+2024-09-19,Desk,Electronics,East,37,4270.13,1366.02
+2024-09-20,Desk,Home,South,27,2879.68,851.35
+2024-09-21,Air Fryer,Electronics,North,24,2967.63,984.55
+2024-09-22,Headphones,Furniture,West,22,2568.41,663.33
+2024-09-23,Laptop,Home,South,41,4561.18,1045.08
+2024-09-24,Desk,Furniture,West,40,4915.77,1285.21
+2024-09-25,Air Fryer,Electronics,East,27,2943.14,730.74
+2024-09-26,Headphones,Furniture,North,23,2167.05,652.24
+2024-09-27,Headphones,Home,South,37,4211.64,948.12
+2024-09-28,Laptop,Furniture,North,25,2865.62,649.56
+2024-09-29,Laptop,Home,West,26,2782.64,632.96
+2024-09-30,Air Fryer,Electronics,North,26,2836.45,961.72
+2024-10-01,Air Fryer,Electronics,West,22,2322.91,663.77
+2024-10-02,Laptop,Furniture,South,41,4508.65,1022.11
+2024-10-03,Headphones,Furniture,South,16,1674.87,456.67
+2024-10-04,Laptop,Home,North,34,4117.41,1343.15
+2024-10-05,Headphones,Furniture,South,40,4709.7,1123.79
+2024-10-06,Desk,Home,North,37,4350.64,1205.44
+2024-10-07,Laptop,Home,West,32,4058.19,1329.34
+2024-10-08,Laptop,Furniture,East,37,3938.29,1164.32
+2024-10-09,Headphones,Home,South,17,2047.65,467.87
+2024-10-10,Laptop,Home,West,31,3631.07,876.24
+2024-10-11,Laptop,Furniture,South,39,4298.27,1256.36
+2024-10-12,Desk,Furniture,East,29,3312.73,735.65
+2024-10-13,Headphones,Home,West,28,3054.07,689.27
+2024-10-14,Air Fryer,Furniture,South,28,3567.79,1127.49
+2024-10-15,Desk,Electronics,West,19,2579.92,607.29
+2024-10-16,Desk,Furniture,North,45,5504.89,1478.44
+2024-10-17,Air Fryer,Furniture,South,36,3881.59,1214.68
+2024-10-18,Desk,Home,East,31,3812.07,1267.32
+2024-10-19,Laptop,Home,North,22,2734.93,789.92
+2024-10-20,Air Fryer,Furniture,East,32,3481.51,1068.36
+2024-10-21,Headphones,Electronics,South,41,4483.87,1009.65
+2024-10-22,Laptop,Electronics,South,40,4426.77,1186.35
+2024-10-23,Desk,Furniture,South,40,5278.14,1497.13
+2024-10-24,Laptop,Furniture,South,31,3661.4,1104.68
+2024-10-25,Air Fryer,Furniture,West,26,2846.97,892.36
+2024-10-26,Air Fryer,Furniture,West,31,3859.21,1311.5
+2024-10-27,Desk,Home,North,18,2194.45,649.08
+2024-10-28,Air Fryer,Furniture,North,27,3262.03,882.29
+2024-10-29,Air Fryer,Electronics,South,33,3405.25,825.64
+2024-10-30,Desk,Furniture,North,33,4334.39,1490.62
+2024-10-31,Headphones,Furniture,South,32,3927.28,1104.23
+2024-11-01,Air Fryer,Furniture,West,53,6312.86,1525.47
+2024-11-02,Laptop,Home,North,35,4535.89,1460.39
+2024-11-03,Air Fryer,Home,North,47,5268.84,1390.83
+2024-11-04,Desk,Furniture,East,47,5386.92,1721.81
+2024-11-05,Desk,Furniture,West,49,4810.82,1480.69
+2024-11-06,Air Fryer,Furniture,East,40,4560.68,1164.9
+2024-11-07,Headphones,Home,West,41,5376.19,1381.05
+2024-11-08,Headphones,Home,North,50,5935.62,1571.32
+2024-11-09,Air Fryer,Electronics,East,39,4130.92,1430.89
+2024-11-10,Air Fryer,Electronics,East,50,5741.0,1620.72
+2024-11-11,Air Fryer,Electronics,West,52,5395.99,1774.31
+2024-11-12,Headphones,Furniture,South,43,4911.25,1437.33
+2024-11-13,Laptop,Electronics,West,56,5306.74,1668.67
+2024-11-14,Air Fryer,Home,North,45,5436.49,1538.61
+2024-11-15,Headphones,Electronics,South,46,5221.47,1359.03
+2024-11-16,Laptop,Home,North,42,4846.46,1100.16
+2024-11-17,Headphones,Home,West,45,5123.88,1587.94
+2024-11-18,Headphones,Home,South,35,4333.43,1258.6
+2024-11-19,Headphones,Electronics,South,46,5382.23,1369.95
+2024-11-20,Air Fryer,Electronics,East,62,6020.15,1817.77
+2024-11-21,Air Fryer,Electronics,East,38,3953.41,1183.88
+2024-11-22,Air Fryer,Electronics,North,51,5896.07,1998.88
+2024-11-23,Headphones,Electronics,East,56,6635.25,1898.57
+2024-11-24,Desk,Furniture,North,53,5670.14,1281.25
+2024-11-25,Air Fryer,Furniture,South,42,4703.5,1086.18
+2024-11-26,Headphones,Furniture,West,55,6329.06,1695.58
+2024-11-27,Headphones,Home,North,73,8979.96,2470.6
+2024-11-28,Laptop,Home,South,46,5355.58,1696.72
+2024-11-29,Desk,Electronics,North,63,7118.37,1757.11
+2024-11-30,Air Fryer,Electronics,South,45,5420.67,1814.07
+2024-12-01,Desk,Electronics,North,55,6630.64,2188.56
+2024-12-02,Laptop,Furniture,North,48,4998.66,1245.62
+2024-12-03,Desk,Furniture,West,54,6254.08,1718.35
+2024-12-04,Desk,Home,South,45,4923.35,1158.07
+2024-12-05,Laptop,Electronics,North,43,4497.09,1207.62
+2024-12-06,Desk,Furniture,South,54,6537.62,1989.18
+2024-12-07,Headphones,Home,East,46,4882.32,1585.82
+2024-12-08,Headphones,Furniture,South,43,4897.69,1513.99
+2024-12-09,Laptop,Home,South,38,4081.54,1382.12
+2024-12-10,Air Fryer,Electronics,West,57,7007.7,1938.94
+2024-12-11,Headphones,Home,South,46,5196.94,1172.22
+2024-12-12,Air Fryer,Home,North,53,5957.49,1948.54
+2024-12-13,Desk,Home,North,55,6521.68,1959.36
+2024-12-14,Desk,Home,North,60,7377.34,2161.76
+2024-12-15,Desk,Electronics,North,51,5462.77,1328.23
+2024-12-16,Desk,Home,West,66,7436.5,2260.61
+2024-12-17,Headphones,Home,East,44,5207.09,1146.35
+2024-12-18,Laptop,Home,West,54,6114.3,1811.62
+2024-12-19,Headphones,Home,East,43,5272.43,1590.54
+2024-12-20,Headphones,Furniture,South,57,6660.18,2019.59
+2024-12-21,Desk,Furniture,South,58,6340.3,1541.82
+2024-12-22,Headphones,Furniture,West,49,5363.55,1854.71
+2024-12-23,Laptop,Furniture,West,51,5987.25,1769.19
+2024-12-24,Air Fryer,Furniture,North,59,7079.46,2391.31
+2024-12-25,Air Fryer,Furniture,North,51,6514.24,1688.32
+2024-12-26,Headphones,Electronics,South,59,7003.44,2376.73
+2024-12-27,Laptop,Furniture,South,56,6401.01,1573.33
+2024-12-28,Desk,Electronics,South,53,6205.17,1957.11
+2024-12-29,Headphones,Home,East,40,4808.61,1242.71
+2024-12-30,Desk,Electronics,North,46,4838.92,1446.77
+2024-12-31,Air Fryer,Electronics,East,54,6635.69,2274.82
+2025-01-01,Headphones,Furniture,North,36,3882.02,1271.45
+2025-01-02,Headphones,Furniture,South,43,5167.41,1730.66
+2025-01-03,Laptop,Home,South,30,3297.36,766.74
+2025-01-04,Desk,Furniture,South,38,4736.21,1145.09
+2025-01-05,Laptop,Electronics,South,39,4733.33,1497.26
+2025-01-06,Headphones,Home,South,31,3629.13,862.13
+2025-01-07,Air Fryer,Electronics,North,54,6027.0,1578.69
+2025-01-08,Laptop,Electronics,North,54,6356.39,1568.75
+2025-01-09,Headphones,Electronics,West,43,5479.6,1892.22
+2025-01-10,Desk,Home,North,38,4772.2,1518.74
+2025-01-11,Laptop,Home,North,32,3395.74,1098.06
+2025-01-12,Laptop,Home,East,53,6662.7,2030.11
+2025-01-13,Air Fryer,Home,North,38,4812.04,1489.67
+2025-01-14,Air Fryer,Home,North,41,4055.29,1370.24
+2025-01-15,Desk,Home,South,45,4886.41,1436.67
+2025-01-16,Air Fryer,Home,North,36,3875.63,1307.94
+2025-01-17,Air Fryer,Furniture,East,48,6185.17,2156.66
+2025-01-18,Headphones,Electronics,North,45,5144.78,1149.04
+2025-01-19,Headphones,Electronics,East,41,4673.24,1255.94
+2025-01-20,Desk,Furniture,South,43,5288.74,1164.14
+2025-01-21,Desk,Furniture,South,37,4009.33,1326.41
+2025-01-22,Air Fryer,Home,South,39,4153.85,992.3
+2025-01-23,Air Fryer,Home,East,59,6800.24,2064.87
+2025-01-24,Headphones,Home,South,46,5067.78,1196.62
+2025-01-25,Headphones,Furniture,East,52,5535.03,1681.95
+2025-01-26,Headphones,Home,South,65,7010.75,1544.83
+2025-01-27,Air Fryer,Home,North,36,4257.54,1149.06
+2025-01-28,Air Fryer,Home,South,48,5691.12,1613.02
+2025-01-29,Desk,Furniture,West,48,5098.19,1458.7
+2025-01-30,Desk,Home,North,43,4978.58,1683.65
+2025-01-31,Desk,Home,West,43,5082.72,1727.71
+2025-02-01,Headphones,Furniture,South,50,5780.93,1285.61
+2025-02-02,Desk,Home,North,52,5682.98,1924.62
+2025-02-03,Air Fryer,Furniture,West,55,6317.52,1533.07
+2025-02-04,Headphones,Home,North,45,5244.92,1157.41
+2025-02-05,Headphones,Furniture,North,31,3645.12,1091.07
+2025-02-06,Air Fryer,Home,West,39,3962.75,1000.34
+2025-02-07,Laptop,Home,East,37,4288.72,1276.58
+2025-02-08,Headphones,Home,West,53,6016.87,1795.51
+2025-02-09,Air Fryer,Electronics,South,47,5260.32,1526.36
+2025-02-10,Desk,Home,North,49,5392.58,1877.28
+2025-02-11,Desk,Electronics,East,39,4200.1,1145.06
+2025-02-12,Air Fryer,Home,West,29,3418.84,1155.94
+2025-02-13,Laptop,Home,South,43,5093.82,1613.4
+2025-02-14,Laptop,Electronics,North,56,7122.64,2175.99
+2025-02-15,Air Fryer,Electronics,South,60,6804.71,2330.44
+2025-02-16,Air Fryer,Furniture,West,45,5705.44,1412.05
+2025-02-17,Laptop,Home,South,41,5297.88,1372.46
+2025-02-18,Air Fryer,Electronics,South,48,5482.62,1321.01
+2025-02-19,Air Fryer,Electronics,North,45,5295.21,1573.38
+2025-02-20,Laptop,Home,South,59,6961.25,1878.31
+2025-02-21,Laptop,Home,East,52,6432.54,1624.01
+2025-02-22,Headphones,Furniture,East,63,7922.69,2025.0
+2025-02-23,Laptop,Electronics,East,46,5614.78,1542.46
+2025-02-24,Air Fryer,Electronics,West,34,4004.73,1125.11
+2025-02-25,Desk,Electronics,North,39,4808.65,1650.75
+2025-02-26,Laptop,Electronics,North,43,4741.58,1183.33
+2025-02-27,Air Fryer,Furniture,South,35,4147.46,1387.59
+2025-02-28,Headphones,Furniture,East,44,5181.86,1784.14
+2025-03-01,Air Fryer,Electronics,North,52,5568.75,1316.1
+2025-03-02,Laptop,Furniture,North,57,7336.15,2191.0
+2025-03-03,Desk,Electronics,East,32,3647.0,895.1
+2025-03-04,Desk,Electronics,South,54,5892.87,1533.54
+2025-03-05,Laptop,Home,West,56,5760.19,1574.62
+2025-03-06,Headphones,Furniture,West,54,6146.65,2025.02
+2025-03-07,Laptop,Home,South,53,5661.4,1585.98
+2025-03-08,Desk,Furniture,North,37,3966.32,1383.31
+2025-03-09,Laptop,Home,West,55,6634.38,2158.15
+2025-03-10,Headphones,Furniture,South,51,5516.46,1610.15
+2025-03-11,Headphones,Furniture,West,52,5547.62,1832.42
+2025-03-12,Headphones,Furniture,West,48,5355.51,1580.85
+2025-03-13,Laptop,Electronics,North,50,5799.29,1642.66
+2025-03-14,Desk,Home,North,42,4406.88,1056.75
+2025-03-15,Air Fryer,Furniture,North,52,6587.19,1514.59
+2025-03-16,Headphones,Home,West,39,4305.22,993.02
+2025-03-17,Air Fryer,Electronics,North,56,6755.88,1600.95
+2025-03-18,Laptop,Electronics,East,51,6138.89,1589.15
+2025-03-19,Headphones,Home,East,52,5659.71,1266.24
+2025-03-20,Laptop,Furniture,South,34,3850.74,1156.94
+2025-03-21,Laptop,Electronics,East,41,4709.11,1315.85
+2025-03-22,Headphones,Electronics,East,51,5712.87,1702.95
+2025-03-23,Air Fryer,Furniture,North,46,5109.69,1663.88
+2025-03-24,Headphones,Home,South,52,5384.45,1748.44
+2025-03-25,Headphones,Home,South,48,4950.56,1510.85
+2025-03-26,Air Fryer,Furniture,North,39,4500.8,1439.31
+2025-03-27,Headphones,Electronics,North,46,4974.42,1248.93
+2025-03-28,Headphones,Electronics,West,37,4127.23,1139.82
+2025-03-29,Headphones,Electronics,East,52,5628.57,1318.07
+2025-03-30,Air Fryer,Electronics,East,40,4247.65,1119.81
+2025-03-31,Air Fryer,Furniture,East,49,5765.84,1321.66
+2025-04-01,Laptop,Home,South,55,6029.93,1571.9
+2025-04-02,Desk,Home,South,58,7194.16,2037.21
+2025-04-03,Laptop,Furniture,North,29,3528.69,1199.73
+2025-04-04,Desk,Furniture,North,48,4985.8,1688.47
+2025-04-05,Air Fryer,Home,South,46,4957.34,1323.71
+2025-04-06,Air Fryer,Home,East,67,7732.15,1785.12
+2025-04-07,Headphones,Home,East,39,4971.4,1272.41
+2025-04-08,Headphones,Electronics,South,48,4914.36,1201.97
+2025-04-09,Air Fryer,Electronics,West,64,7715.96,2474.86
+2025-04-10,Air Fryer,Furniture,South,48,5200.92,1153.76
+2025-04-11,Headphones,Home,South,50,6776.35,2023.07
+2025-04-12,Desk,Electronics,South,55,5785.66,1399.86
+2025-04-13,Desk,Furniture,East,55,5807.74,1658.6
+2025-04-14,Laptop,Furniture,South,54,6375.14,2081.73
+2025-04-15,Air Fryer,Home,North,58,6285.41,2161.68
+2025-04-16,Headphones,Furniture,North,43,5315.54,1796.91
+2025-04-17,Air Fryer,Furniture,East,56,6787.66,1665.9
+2025-04-18,Laptop,Furniture,East,56,7127.35,1755.19
+2025-04-19,Headphones,Furniture,West,52,6398.58,2137.8
+2025-04-20,Headphones,Electronics,North,42,5163.05,1279.4
+2025-04-21,Headphones,Furniture,North,59,6299.4,1773.39
+2025-04-22,Headphones,Electronics,North,47,5848.06,1535.8
+2025-04-23,Laptop,Home,East,32,3758.86,901.06
+2025-04-24,Desk,Furniture,North,55,5974.89,1679.52
+2025-04-25,Headphones,Electronics,West,45,6000.28,1587.15
+2025-04-26,Air Fryer,Home,East,58,5751.62,1522.76
+2025-04-27,Air Fryer,Home,West,53,6578.13,2002.02
+2025-04-28,Air Fryer,Furniture,East,28,3265.83,1019.86
+2025-04-29,Laptop,Electronics,East,39,5022.85,1345.33
+2025-04-30,Desk,Furniture,West,40,4469.62,1026.14
+2025-05-01,Air Fryer,Home,East,53,6192.2,1384.25
+2025-05-02,Desk,Furniture,East,60,6990.12,1865.86
+2025-05-03,Headphones,Furniture,North,57,6417.87,1640.47
+2025-05-04,Desk,Home,West,55,6128.06,1696.82
+2025-05-05,Headphones,Electronics,East,42,4650.92,1539.19
+2025-05-06,Air Fryer,Furniture,East,44,5185.66,1162.6
+2025-05-07,Laptop,Electronics,North,44,5001.43,1656.56
+2025-05-08,Desk,Furniture,West,52,6560.08,1677.9
+2025-05-09,Headphones,Electronics,East,50,5803.27,1288.67
+2025-05-10,Laptop,Home,East,53,5420.61,1253.8
+2025-05-11,Desk,Furniture,East,62,7586.6,2466.22
+2025-05-12,Air Fryer,Home,East,50,5965.46,1713.14
+2025-05-13,Desk,Electronics,North,38,4435.48,1007.25
+2025-05-14,Desk,Electronics,West,42,4908.97,1112.45
+2025-05-15,Laptop,Home,East,65,7581.66,2221.23
+2025-05-16,Air Fryer,Furniture,East,48,4861.7,1229.21
+2025-05-17,Headphones,Home,South,58,6988.7,1540.89
+2025-05-18,Desk,Furniture,North,47,5635.43,1359.14
+2025-05-19,Desk,Home,East,34,3634.71,1209.16
+2025-05-20,Laptop,Electronics,West,57,6463.73,2164.85
+2025-05-21,Laptop,Furniture,East,44,5527.65,1859.27
+2025-05-22,Air Fryer,Furniture,East,51,5283.34,1302.97
+2025-05-23,Air Fryer,Home,North,44,5015.18,1332.72
+2025-05-24,Air Fryer,Home,East,53,6632.81,1697.79
+2025-05-25,Air Fryer,Home,East,45,4992.43,1584.04
+2025-05-26,Headphones,Home,East,39,4637.07,1081.37
+2025-05-27,Air Fryer,Furniture,West,43,4775.99,1183.03
+2025-05-28,Air Fryer,Furniture,North,61,6451.12,1731.88
+2025-05-29,Air Fryer,Electronics,North,53,6362.23,1634.01
+2025-05-30,Desk,Furniture,East,49,5234.23,1320.96
+2025-05-31,Air Fryer,Home,East,37,4113.25,1209.4
+2025-06-01,Air Fryer,Furniture,South,44,5258.06,1293.52
+2025-06-02,Headphones,Electronics,East,38,3822.36,1109.3
+2025-06-03,Desk,Electronics,West,42,5136.29,1351.76
+2025-06-04,Desk,Electronics,North,58,7284.85,1747.45
+2025-06-05,Laptop,Electronics,East,39,4547.4,1507.13
+2025-06-06,Laptop,Furniture,North,35,3784.28,886.56
+2025-06-07,Laptop,Home,West,46,5380.07,1572.34
+2025-06-08,Desk,Home,West,45,5969.42,1545.47
+2025-06-09,Desk,Electronics,West,50,5425.42,1286.69
+2025-06-10,Laptop,Electronics,West,48,5385.82,1215.85
+2025-06-11,Laptop,Furniture,West,56,6764.53,1612.14
+2025-06-12,Air Fryer,Furniture,East,51,5490.9,1642.07
+2025-06-13,Laptop,Electronics,East,52,5537.05,1325.17
+2025-06-14,Air Fryer,Home,South,44,5024.66,1487.77
+2025-06-15,Air Fryer,Electronics,East,47,6018.13,1413.17
+2025-06-16,Headphones,Electronics,South,38,4546.16,1406.69
+2025-06-17,Laptop,Home,North,47,5515.04,1604.89
+2025-06-18,Air Fryer,Home,South,41,5482.46,1373.91
+2025-06-19,Headphones,Furniture,West,52,5913.75,1931.02
+2025-06-20,Laptop,Furniture,North,51,6436.16,2154.19
+2025-06-21,Desk,Furniture,East,35,4072.05,1056.02
+2025-06-22,Headphones,Electronics,North,49,6054.33,1910.39
+2025-06-23,Headphones,Furniture,South,39,4164.97,925.46
+2025-06-24,Headphones,Furniture,East,43,5044.66,1533.76
+2025-06-25,Laptop,Electronics,East,40,4601.3,1160.1
+2025-06-26,Laptop,Home,East,39,4455.77,1059.69
+2025-06-27,Laptop,Electronics,West,30,3377.53,872.34
+2025-06-28,Air Fryer,Electronics,South,52,6186.52,1965.72
+2025-06-29,Laptop,Furniture,West,34,3782.93,1091.71
+2025-06-30,Desk,Furniture,West,41,4921.8,1432.08
+2025-07-01,Headphones,Furniture,South,44,4867.7,1349.74
+2025-07-02,Desk,Furniture,East,40,4466.96,1562.83
+2025-07-03,Headphones,Electronics,East,40,4684.96,1073.87
+2025-07-04,Laptop,Electronics,South,49,5882.82,1762.31
+2025-07-05,Headphones,Electronics,East,49,5573.9,1891.91
+2025-07-06,Headphones,Furniture,South,43,5177.04,1713.88
+2025-07-07,Headphones,Furniture,North,59,7415.07,1902.36
+2025-07-08,Headphones,Home,West,33,3986.58,1034.55
+2025-07-09,Desk,Home,West,51,5035.84,1690.65
+2025-07-10,Headphones,Home,North,35,3963.7,975.86
+2025-07-11,Laptop,Home,North,48,6294.94,1568.77
+2025-07-12,Headphones,Furniture,East,30,3578.36,880.72
+2025-07-13,Laptop,Furniture,West,60,7249.33,1760.74
+2025-07-14,Air Fryer,Furniture,North,30,3359.95,930.78
+2025-07-15,Desk,Home,South,37,4770.02,1260.46
+2025-07-16,Headphones,Electronics,East,44,5345.49,1512.23
+2025-07-17,Air Fryer,Furniture,North,45,5252.93,1403.15
+2025-07-18,Desk,Furniture,East,40,4332.63,1343.76
+2025-07-19,Desk,Furniture,South,46,5432.84,1405.67
+2025-07-20,Headphones,Home,North,53,6021.83,2066.72
+2025-07-21,Desk,Home,West,44,5704.07,1467.59
+2025-07-22,Air Fryer,Furniture,East,45,5087.92,1129.82
+2025-07-23,Headphones,Electronics,East,41,5258.55,1722.77
+2025-07-24,Desk,Electronics,North,47,5245.92,1750.82
+2025-07-25,Laptop,Furniture,West,42,4696.44,1073.7
+2025-07-26,Headphones,Electronics,North,38,3938.21,1324.43
+2025-07-27,Laptop,Home,East,33,4090.78,1011.97
+2025-07-28,Headphones,Home,North,34,3915.06,1309.88
+2025-07-29,Desk,Home,West,43,4782.59,1090.98
+2025-07-30,Headphones,Furniture,South,18,2044.61,581.32
+2025-07-31,Laptop,Electronics,East,30,3450.52,893.16
+2025-08-01,Headphones,Home,North,43,5031.86,1758.59
+2025-08-02,Air Fryer,Furniture,North,34,3515.71,952.55
+2025-08-03,Desk,Furniture,South,38,5099.92,1658.6
+2025-08-04,Laptop,Furniture,South,32,3692.71,1240.95
+2025-08-05,Desk,Home,South,32,3272.2,816.15
+2025-08-06,Headphones,Home,West,40,4256.55,1228.16
+2025-08-07,Laptop,Furniture,South,41,4888.29,1166.49
+2025-08-08,Desk,Home,West,44,5120.09,1697.38
+2025-08-09,Headphones,Home,East,19,2051.72,675.09
+2025-08-10,Desk,Electronics,West,35,4061.75,1352.07
+2025-08-11,Headphones,Home,North,37,3607.64,1222.26
+2025-08-12,Laptop,Furniture,North,32,3643.37,1178.23
+2025-08-13,Air Fryer,Electronics,South,33,3525.21,827.22
+2025-08-14,Air Fryer,Furniture,North,19,1907.79,536.18
+2025-08-15,Laptop,Furniture,South,42,4984.34,1147.78
+2025-08-16,Air Fryer,Electronics,East,22,2318.02,772.75
+2025-08-17,Desk,Furniture,South,24,2538.95,748.73
+2025-08-18,Headphones,Electronics,North,32,3900.76,901.09
+2025-08-19,Air Fryer,Home,West,35,3763.45,1266.87
+2025-08-20,Air Fryer,Electronics,South,30,3458.71,813.06
+2025-08-21,Laptop,Furniture,West,26,3070.14,1038.72
+2025-08-22,Headphones,Electronics,West,35,4376.99,1429.06
+2025-08-23,Laptop,Electronics,North,35,4220.43,1385.05
+2025-08-24,Air Fryer,Electronics,East,30,3017.08,1013.77
+2025-08-25,Desk,Electronics,West,26,2893.11,945.73
+2025-08-26,Headphones,Electronics,West,39,4329.56,1107.79
+2025-08-27,Headphones,Furniture,North,20,2217.55,501.5
+2025-08-28,Air Fryer,Furniture,West,35,3964.79,1374.01
+2025-08-29,Laptop,Home,North,39,4451.02,1426.6
+2025-08-30,Headphones,Furniture,East,30,3532.41,1091.28
+2025-08-31,Desk,Electronics,South,23,2626.43,599.54
+2025-09-01,Air Fryer,Electronics,North,30,3704.11,1012.19
+2025-09-02,Air Fryer,Furniture,North,29,3287.31,928.37
+2025-09-03,Desk,Electronics,South,38,4437.21,1022.38
+2025-09-04,Laptop,Home,West,35,3866.9,1296.09
+2025-09-05,Laptop,Electronics,South,35,4410.82,1516.23
+2025-09-06,Desk,Furniture,North,20,2165.72,557.53
+2025-09-07,Laptop,Home,North,28,3268.89,898.8
+2025-09-08,Headphones,Electronics,East,26,3274.88,968.92
+2025-09-09,Desk,Furniture,North,43,4865.72,1310.3
+2025-09-10,Headphones,Home,West,38,4357.57,1350.54
+2025-09-11,Laptop,Electronics,West,35,4102.2,974.81
+2025-09-12,Headphones,Electronics,West,36,4184.17,1080.45
+2025-09-13,Laptop,Electronics,South,25,2691.2,609.47
+2025-09-14,Air Fryer,Furniture,South,20,2137.27,614.12
+2025-09-15,Desk,Electronics,North,41,4961.47,1484.39
+2025-09-16,Desk,Home,North,41,4537.54,1038.63
+2025-09-17,Air Fryer,Home,East,38,4420.09,1458.37
+2025-09-18,Headphones,Home,North,31,3259.39,719.57
+2025-09-19,Laptop,Furniture,South,43,5104.23,1773.46
+2025-09-20,Desk,Home,East,32,3805.73,1275.48
+2025-09-21,Laptop,Electronics,East,29,3439.95,821.35
+2025-09-22,Headphones,Electronics,East,36,3936.41,998.03
+2025-09-23,Headphones,Electronics,North,37,4067.5,1236.45
+2025-09-24,Air Fryer,Furniture,South,36,4107.86,1297.04
+2025-09-25,Air Fryer,Home,West,32,4063.19,1059.75
+2025-09-26,Air Fryer,Furniture,South,31,3668.88,1060.4
+2025-09-27,Desk,Home,South,30,3857.74,1269.51
+2025-09-28,Laptop,Home,South,24,3142.97,1071.44
+2025-09-29,Headphones,Home,West,47,5028.43,1365.53
+2025-09-30,Headphones,Furniture,South,34,4423.14,1371.18
+2025-10-01,Air Fryer,Furniture,East,41,4606.63,1424.07
+2025-10-02,Desk,Home,West,28,3216.73,912.91
+2025-10-03,Air Fryer,Home,North,40,4330.15,990.37
+2025-10-04,Headphones,Electronics,West,23,2663.77,713.49
+2025-10-05,Laptop,Furniture,East,38,3894.49,1304.82
+2025-10-06,Air Fryer,Home,South,30,3445.03,1044.63
+2025-10-07,Desk,Home,West,20,2383.31,754.34
+2025-10-08,Desk,Home,North,26,3032.17,1004.91
+2025-10-09,Laptop,Home,North,33,3785.58,996.68
+2025-10-10,Headphones,Home,West,24,2511.95,758.19
+2025-10-11,Headphones,Furniture,South,37,4563.36,1289.76
+2025-10-12,Headphones,Furniture,South,39,4917.87,1644.42
+2025-10-13,Headphones,Home,South,23,2765.1,738.49
+2025-10-14,Air Fryer,Furniture,West,34,3417.92,1162.04
+2025-10-15,Desk,Furniture,South,50,5683.15,1316.86
+2025-10-16,Desk,Furniture,North,14,1710.59,441.58
+2025-10-17,Air Fryer,Electronics,West,35,4061.4,1016.59
+2025-10-18,Air Fryer,Electronics,West,31,3003.41,921.53
+2025-10-19,Desk,Furniture,South,27,3112.65,796.51
+2025-10-20,Desk,Furniture,South,46,5179.87,1684.07
+2025-10-21,Desk,Electronics,East,12,1297.13,401.25
+2025-10-22,Laptop,Home,North,35,3444.28,880.21
+2025-10-23,Laptop,Electronics,East,38,4117.86,1093.25
+2025-10-24,Laptop,Furniture,South,38,3880.04,1293.22
+2025-10-25,Air Fryer,Furniture,North,33,3833.66,1179.71
+2025-10-26,Desk,Electronics,North,46,5190.98,1722.0
+2025-10-27,Laptop,Furniture,South,38,4561.6,1312.59
+2025-10-28,Headphones,Home,North,37,3691.04,892.5
+2025-10-29,Laptop,Home,West,33,3873.42,1033.45
+2025-10-30,Headphones,Home,West,29,3378.43,824.33
+2025-10-31,Headphones,Home,South,38,4265.48,1485.74
+2025-11-01,Headphones,Home,South,36,3642.74,880.09
+2025-11-02,Air Fryer,Home,South,40,4829.76,1121.91
+2025-11-03,Laptop,Electronics,West,55,6053.72,2050.22
+2025-11-04,Laptop,Furniture,West,51,5676.09,1536.94
+2025-11-05,Headphones,Furniture,South,47,5593.68,1827.04
+2025-11-06,Desk,Furniture,East,43,5175.01,1492.29
+2025-11-07,Desk,Home,South,40,4813.22,1666.41
+2025-11-08,Headphones,Home,West,59,6034.78,1834.18
+2025-11-09,Headphones,Furniture,North,32,4025.47,899.79
+2025-11-10,Desk,Electronics,South,51,5427.21,1888.5
+2025-11-11,Desk,Furniture,North,36,4020.7,1322.05
+2025-11-12,Air Fryer,Electronics,West,45,5426.71,1365.83
+2025-11-13,Air Fryer,Home,East,43,5458.4,1418.52
+2025-11-14,Headphones,Home,South,52,5476.62,1868.61
+2025-11-15,Laptop,Furniture,North,50,5619.97,1455.09
+2025-11-16,Headphones,Home,East,45,5549.1,1759.18
+2025-11-17,Headphones,Electronics,West,51,5881.93,1630.65
+2025-11-18,Headphones,Home,North,32,3462.03,1174.24
+2025-11-19,Desk,Furniture,North,54,5943.8,1853.37
+2025-11-20,Headphones,Home,West,34,4018.18,1297.06
+2025-11-21,Laptop,Furniture,South,41,4818.41,1438.11
+2025-11-22,Desk,Furniture,East,58,7264.47,2015.02
+2025-11-23,Desk,Furniture,West,60,6157.14,1623.63
+2025-11-24,Headphones,Electronics,East,56,6042.68,1653.67
+2025-11-25,Air Fryer,Furniture,South,50,5677.68,1815.56
+2025-11-26,Headphones,Furniture,South,52,5508.91,1668.04
+2025-11-27,Air Fryer,Home,South,36,3743.63,1104.05
+2025-11-28,Desk,Home,South,51,6173.04,2086.87
+2025-11-29,Air Fryer,Electronics,South,31,3072.92,1046.93
+2025-11-30,Desk,Furniture,East,55,6209.94,2059.4
+2025-12-01,Desk,Electronics,East,41,4469.03,1045.62
+2025-12-02,Air Fryer,Electronics,West,54,6387.82,1471.1
+2025-12-03,Air Fryer,Electronics,North,52,5473.23,1759.79
+2025-12-04,Desk,Furniture,East,37,4366.84,1448.09
+2025-12-05,Air Fryer,Home,South,54,6021.45,1561.7
+2025-12-06,Headphones,Home,North,49,6055.31,1860.24
+2025-12-07,Headphones,Furniture,East,47,4876.48,1453.36
+2025-12-08,Desk,Home,South,35,4292.49,1110.09
+2025-12-09,Laptop,Furniture,West,52,6467.03,1552.4
+2025-12-10,Laptop,Home,East,46,5969.65,1647.97
+2025-12-11,Headphones,Electronics,South,43,4935.37,1257.59
+2025-12-12,Air Fryer,Electronics,South,34,4179.57,931.12
+2025-12-13,Headphones,Home,South,45,5178.78,1625.67
+2025-12-14,Air Fryer,Home,East,60,6701.45,1673.25
+2025-12-15,Headphones,Electronics,East,54,6664.14,2225.55
+2025-12-16,Desk,Home,South,55,6622.74,1664.76
+2025-12-17,Laptop,Home,North,58,6070.74,1857.88
+2025-12-18,Laptop,Furniture,East,61,6568.19,2247.21
+2025-12-19,Laptop,Furniture,North,53,6182.58,1637.38
+2025-12-20,Air Fryer,Home,North,56,6489.28,1485.52
+2025-12-21,Air Fryer,Home,East,52,4966.87,1356.07
+2025-12-22,Desk,Furniture,East,53,6111.32,1392.18
+2025-12-23,Air Fryer,Home,West,56,6298.53,2177.8
+2025-12-24,Air Fryer,Electronics,South,31,3346.87,870.14
+2025-12-25,Laptop,Furniture,West,50,5558.58,1843.39
+2025-12-26,Air Fryer,Furniture,North,50,5307.06,1302.93
+2025-12-27,Air Fryer,Furniture,West,51,5570.21,1340.61
+2025-12-28,Laptop,Furniture,West,49,5528.11,1426.13
+2025-12-29,Desk,Home,North,45,5817.76,1597.34
+2025-12-30,Headphones,Home,South,52,6375.2,2073.03
+2025-12-31,Headphones,Home,South,50,5848.95,1869.26

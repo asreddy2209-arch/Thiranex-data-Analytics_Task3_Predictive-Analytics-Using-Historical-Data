@@ -1,0 +1,2 @@
+# Dashboard build guide
+Import the four processed CSV files, apply theme and measures. Page 1: historical Revenue trend and the 30-day Forecast Revenue trend. Page 2: Actual Revenue vs Predicted Revenue line chart and Forecast Variance bars. Add cards for Forecast Revenue plus MAE/RMSE read from `model_metrics.csv`. Use date slicers on historical and actual/predicted tables. The generated model forecast is a fixed exported prediction, not Power BI's built-in forecast.
